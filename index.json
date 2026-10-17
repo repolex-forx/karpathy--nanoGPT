@@ -1,0 +1,11 @@
+{
+  "org": "karpathy",
+  "repo": "nanoGPT",
+  "versions": [
+    {
+      "commit": "3adf61e154c3fe3fca428ad6bc3818b27a3b8291",
+      "tag": "",
+      "parsed_at": "2026-10-17T08:12:04.081431+00:00"
+    }
+  ]
+}
